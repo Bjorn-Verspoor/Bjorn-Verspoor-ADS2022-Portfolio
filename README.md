@@ -103,7 +103,7 @@ Raj, A. (2020, october 3). Unlocking the True Power of Support Vector Regression
 
 # Data voorbereiden
 
-Data voorbereiden Jupyter notebook Bjorn Verspoor met uitleg 
+[Data voorbereiden Jupyter notebook Bjorn Verspoor met uitleg](https://github.com/Bjorn-Verspoor/Bjorn-Verspoor-ADS2022-Portfolio/blob/4f91a4daff6a9c63342667271b7f0ced2d28d4dc/Data%20voorbereiden%20FoodBoost%20portfolio%20Bjorn%20Verspoor.ipynb)
 
 
 # Communicatie
