@@ -74,7 +74,7 @@ We hebben vrijwel geen gebruik gemaakt van Scrum, maar hebben tijdens elke driew
 
 # Voorspel modellen
 
-Voorspel modellen FoodBoost Jupyter notebook Bjorn Verspoor met uitleg 
+[Voorspel modellen FoodBoost Jupyter notebook Bjorn Verspoor met uitleg](https://github.com/Bjorn-Verspoor/Bjorn-Verspoor-ADS2022-Portfolio/blob/a89c2ee977246cdd70cda6b6e07375a250d9fafa/FoodBoost%20Modellen%20Voorspellen%20Portfolio%20Versie%20Bjorn%20Verspoor.ipynb)
 
 # Domein kennis
 
