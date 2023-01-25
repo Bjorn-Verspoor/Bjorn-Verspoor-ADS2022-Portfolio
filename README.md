@@ -103,3 +103,15 @@ Raj, A. (2020, october 3). Unlocking the True Power of Support Vector Regression
 # Data voorbereiden
 
 Data voorbereiden Jupyter notebook Bjorn Verspoor met uitleg 
+
+
+# Communicatie
+
+### Presentaties
+
+In week 2  heb ik de interne presentatie gegeven samen met de rest van de groep. De interne presentatie in week 4 heb ik voorbereid en gegeven samen met de rest van de groep. De externe presentatie in week 8 (Energy in transition) heb ik samen met Senna voorbereid en samen met Senna gegeven.
+Ik vond zelf dat ik goed voorbereid was voor elk van de gevallen en dat de presentaties soepel waren gegaan.
+
+### Verslag schrijven
+
+Mijn inbreng aan het verslag was het schrijven van de Introductie en het abstract. Verder was ik verantwoordelijk voor het nalezen en controleren van het verslag. Ik heb dus gekeken of alle informatie klopte, of de zinsbouw logisch was, of de bronnen goed geplaatst waren, of er geen spelling en grammaticale fouten waren. Er waren hier wel redelijk wat gevallen van. Als het goed is waren er bij het inleveren weinig tot geen problemen. Ik heb veel meegeholpen aan het schrijven en verzinnen van aanbevelingen. Ook heb ik het voorblad gemaakt. 
